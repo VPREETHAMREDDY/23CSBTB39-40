@@ -15,3 +15,7 @@ AIML LAB
 7.[https://github.com/VPREETHAMREDDY/23CSBTB39-40/blob/main/AIML_7.ipynb]
 
 8.[https://github.com/VPREETHAMREDDY/23CSBTB39-40/blob/main/aiml_a8.ipynb]
+
+9.[https://github.com/VPREETHAMREDDY/23CSBTB39-40/blob/main/aiml_a9.ipynb]
+
+
